@@ -1,8 +1,6 @@
 
-<p align="center">SEJA BEM-VINDO AO MEU GITHUB!! 👋</p>
----
-###
-
+<h3 align="center">SEJA BEM-VINDO AO MEU GITHUB!! 👋<h3>
+  
 <h2 align="left">🍂| Sobre mim:</h2>
 
 ###
@@ -37,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Frameworks:</h3>
 
@@ -51,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Outros:</h3>
 
@@ -65,16 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">📊| Estatísticas do GitHub:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvig0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bvig0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 📊| GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bvig0&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 
@@ -87,11 +81,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bvig0&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ---
----
-[![](https://visitcount.itsvg.in/api?id=bvig0&icon=0&color=2)](https://visitcount.itsvg.in)
