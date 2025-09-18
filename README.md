@@ -1,4 +1,4 @@
----
+
 # 🍂About Me :
 Faço Técnico em Desenvolvimento de Sistemas e faço o 
 Proprifissão do Institutuo PROA, onde venho aprimorando minhas habilidades em tecnologia.
@@ -15,6 +15,6 @@ Proprifissão do Institutuo PROA, onde venho aprimorando minhas habilidades em t
 ![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bvig0&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+---
 ---
 [![](https://visitcount.itsvg.in/api?id=bvig0&icon=0&color=2)](https://visitcount.itsvg.in)
