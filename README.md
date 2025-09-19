@@ -1,22 +1,21 @@
+# 👋 Olá, eu sou Brian  
 
-<h3 align="center">SEJA BEM-VINDO AO MEU GITHUB!! 👋<h3>
-  
-<h2 align="left">🍂| Sobre mim:</h2>
+💻 Desenvolvedor de Software | 🎮 Aspirante a Programador de Jogos  
+🎓 Estudante em Desenvolvimento de Sistemas (ETEC Irmã Agostina + Instituto PROA)  
 
-###
+---
 
-<p align="left">Faço Técnico em Desenvolvimento de Sistemas e faço o Proprifissão do Institutuo PROA, onde venho aprimorando minhas habilidades em tecnologia.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEULINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://SEUPORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:SEUEMAIL@EXEMPLO.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-###
+---
 
-<h2 align="left">💻| Tech:</h2>
+## 💻| Tech:
 
-###
-
-<h3 align="left">Linguagens:</h3>
-
-###
-
+### Linguagens:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -35,12 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
----
-
-<h3 align="left">Frameworks:</h3>
-
-###
-
+### Frameworks:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -49,12 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
----
-
-<h3 align="left">Outros:</h3>
-
-###
-
+### Outros:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -65,20 +54,9 @@
 
 ---
 
-# 📊| GitHub Stats :
+## 📊| GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bvig0&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-###
-
-<h2 align="center">🌐| Contatos:</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
 
 ---
