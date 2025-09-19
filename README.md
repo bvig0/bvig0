@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Brian  
 
-💻 Desenvolvedor de Software | 🎮 Aspirante a Programador de Jogos  
-🎓 Estudante em Desenvolvimento de Sistemas (ETEC Irmã Agostina + Instituto PROA)  
+💻 Desenvolvedor de Full-stack & Mobile
+🎓 Técnico em Desenvolvimento de Sistemas (ETEC Irmã Agostina ) | PROANO  
 
 ---
 
