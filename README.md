@@ -4,7 +4,7 @@
 🎓 Técnico em Desenvolvimento de Sistemas (ETEC Irmã Agostina ) | PROANO  
 
 ---
-## 🌐 Onde me encontrar (Portfolio ainda não está pronto)
+## 🌐 Onde me encontrar (Portfolio ainda não está pronto):
 <p align="center">
   <a href="https://www.linkedin.com/in/brian-vigo""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://SEUPORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
