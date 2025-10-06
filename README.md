@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Brian  
 
-💻 Desenvolvedor de Full-stack & Mobile <br/>
+💻 Desenvolvedor de Full-stack <br/>
 🎓 Técnico em Desenvolvimento de Sistemas (ETEC Irmã Agostina ) | PROANO  
 
 ---
