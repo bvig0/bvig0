@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Brian  
 
 💻 Desenvolvedor Full-stack <br/>
+
 🎓 Técnico em Desenvolvimento de Sistemas (ETEC Irmã Agostina ) | Ex-Proano  
 
 ---
@@ -52,12 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-
 ---
-<!--
-## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bvig0&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
--->
+## 📊 GitHub Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvig0&show_icons=true&theme=tokyonight&v=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&layout=compact&theme=tokyonight&v=1)
+
+
