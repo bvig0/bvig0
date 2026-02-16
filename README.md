@@ -56,8 +56,9 @@
 ---
 
 ## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvig0&show_icons=true&theme=tokyonight&v=1)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bvig0&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&layout=compact&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bvig0&layout=compact&theme=tokyonight)
 
 
+---
