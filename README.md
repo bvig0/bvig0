@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Brian
 
-**Software Engineer in Training**
+**Software Engineer**
 
 🎓 Graduando em Engenharia de Software • Técnico em Desenvolvimento de Sistemas • Ex-Proano
 
@@ -42,6 +42,14 @@ Gosto de entender como as coisas funcionam e transformar ideias em soluções. A
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 📚 Outras Linguagens
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🛠️ Ferramentas
