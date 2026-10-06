@@ -1,64 +1,72 @@
-# 👋 Olá, eu sou Brian  
+# 👋 Olá, eu sou Brian
 
-💻 Desenvolvedor Full-stack <br/>
+**Software Engineer in Training**
 
-🎓 Técnico em Desenvolvimento de Sistemas (ETEC Irmã Agostina ) | Ex-Proano  
+🎓 Graduando em Engenharia de Software • Técnico em Desenvolvimento de Sistemas • Ex-Proano
+
+Gosto de entender como as coisas funcionam e transformar ideias em soluções. Atualmente, estou focado em desenvolvimento de software, principalmente na área de back-end, desenvolvendo projetos para colocar meus conhecimentos em prática.
 
 ---
-## 🌐 Onde me encontrar (Portfolio ainda não está pronto):
+
+## 🌐 Onde me encontrar
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/brian-vigo""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:brian.v.oliveira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brian-vigo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:brian.v.oliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Tech:
+## 💻 Tecnologias
 
-### ⚙️ Linguagens:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
-</div>
+### 🎨 Front-end
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### 📚 Frameworks e Bibliotecas:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+### ⚙️ Back-end
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-### 🛠️ Outros:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
+### 🗄️ Banco de Dados & SQL
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvig0&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=bvig0&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=bvig0&theme=vision-friendly-dark&hide_border=false)
+
 [![](https://visitcount.itsvg.in/api?id=bvig0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
