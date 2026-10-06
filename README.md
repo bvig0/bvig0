@@ -6,10 +6,6 @@
 
 Gosto de entender como as coisas funcionam e transformar ideias em soluções. Atualmente, estou focado em desenvolvimento de software, principalmente na área de back-end, desenvolvendo projetos para colocar meus conhecimentos em prática.
 
----
-
-## 🌐 Onde me encontrar
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brian-vigo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
